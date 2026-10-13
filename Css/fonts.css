@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Main";
+    src: url("../assets/fonts/Pinar-VF.ttf");
+  }
+  @font-face {
+    font-family:"modam" ;
+    src: url(../fonts/ModamVF.ttf);
+}
+@font-face {
+    font-family:"Aria" ;
+    src: url(../fonts/AriaVFGX\ \(1\).ttf);
+}
+@font-face {
+    font-family:"Dana" ;
+    src: url(../fonts/DanaVF\ \(4\).ttf);
+}
+@font-face {
+    font-family:"Dorna" ;
+    src: url(../fonts/Doran.ttf);
+}
+@font-face {
+    font-family:"Esteded" ;
+    src: url(../fonts/Estedad\ \(1\).ttf);
+}
+@font-face {
+    font-family:"Pinar" ;
+    src: url(../fonts/Pinar-VF.ttf);
+}
+@font-face {
+    font-family:"Ray" ;
+    src: url(../fonts/Ray.ttf);
+}
+@font-face {
+    font-family:"Vazer" ;
+    src: url(../fonts/Vazir.ttf);
+}
