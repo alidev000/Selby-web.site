@@ -1,0 +1,10 @@
+.hero-content {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 4rem;
+}
+
+.content-right img {
+    width: 400px;
+    border-radius: 20px;
+}
